@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Magic-ksf/spider/issues"
   },
-  "homepage": "https://github.com/Magic-ksf/spider#readme"
+  "homepage": "https://github.com/Magic-ksf/spider#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "install": "^0.11.0",
+    "npm": "^6.0.0",
+    "request": "^2.85.0"
+  }
 }
